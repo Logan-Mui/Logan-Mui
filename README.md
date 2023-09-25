@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Logan-Mui
+- 👀 I’m interested in a internship for the upcoming summer! (May 2024 - August 2024)
+- 🌱 I’m currently learning C (again) and will be deepening my understanding of data structures and algorithms
+- 💞️ I’m looking to collaborate on web and mobile coding projects or back end coding.
+- 📫 How to reach me: through my email pls 🙏
