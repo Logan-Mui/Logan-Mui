@@ -1,5 +1,4 @@
-- 👋 Hello! I’m @Logan-Mui.
-- 👀 I’m interested in a internship for the upcoming Year! (January 2025 - August 2025)
-- 🌱 I’m currently learning Shell Scripting.
+- 👋 Hello! I’m Logan-Mui.
+- 👀 I’m interested in a internship for the upcoming Year! (May 2025 - December 2025)
+- 🌱 I’m currently interested in learning AWS, as well as Azure development tools.
 - 💞️ I’m looking to collaborate on any projects, contact me if you're interested.
-- 📫 How to reach me: Email please.
