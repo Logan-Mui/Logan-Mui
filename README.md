@@ -1,4 +1,3 @@
 - 👋 Hello! I’m Logan-Mui.
-- 👀 I’m interested in a internship for the upcoming Year! (May 2025 - December 2025)
-- 🌱 I’m currently interested in learning AWS, as well as Azure development tools.
-- 💞️ I’m looking to collaborate on any projects, contact me if you're interested.
+- 👀 I’m headed to berlin for the fall, but would love to be on your full-time team come May! (May 2026)
+- 🌱 I’m currently working on an inventory app that integrates with quickbooks desktop!
